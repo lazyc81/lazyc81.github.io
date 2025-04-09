@@ -26,16 +26,16 @@
           <mxGeometry x="9.25" y="30" width="367.5" height="247.14" as="geometry" />
         </mxCell>
         <mxCell id="CQcFYhO0DkiSKnMHBSWt-19" value="&lt;b&gt;Stage 1: Principles Generation&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344" y="280" width="186" height="120" as="geometry" />
+          <mxGeometry x="310" y="260" width="310" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="CQcFYhO0DkiSKnMHBSWt-20" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CQcFYhO0DkiSKnMHBSWt-19">
-          <mxGeometry y="30" width="186" height="30" as="geometry" />
+        <mxCell id="CQcFYhO0DkiSKnMHBSWt-20" value="DeepSeek-GRM 也有生成 Principles 的阶段，具体来说是输出中的 Specific Criteria 部分。它的问题在于：" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CQcFYhO0DkiSKnMHBSWt-19">
+          <mxGeometry y="30" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CQcFYhO0DkiSKnMHBSWt-21" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CQcFYhO0DkiSKnMHBSWt-19">
-          <mxGeometry y="60" width="186" height="30" as="geometry" />
+        <mxCell id="CQcFYhO0DkiSKnMHBSWt-23" value="1）Criteria 中定义了不同 Criteria 权重，但是实际上并没有显式地根据这个权重进行计算奖励得分；" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CQcFYhO0DkiSKnMHBSWt-19">
+          <mxGeometry y="70" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CQcFYhO0DkiSKnMHBSWt-22" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CQcFYhO0DkiSKnMHBSWt-19">
-          <mxGeometry y="90" width="186" height="30" as="geometry" />
+        <mxCell id="CQcFYhO0DkiSKnMHBSWt-24" value="2）Criteria 是扁平的加权规则，而没有考虑复杂的逻辑情况（例如：违反安全则 0 分，不违反则根据文采打分）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CQcFYhO0DkiSKnMHBSWt-19">
+          <mxGeometry y="110" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
