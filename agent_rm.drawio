@@ -19,12 +19,6 @@
         <mxCell id="CQcFYhO0DkiSKnMHBSWt-10" value="Verifier（可选）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CQcFYhO0DkiSKnMHBSWt-2">
           <mxGeometry y="110" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CQcFYhO0DkiSKnMHBSWt-13" value="Stage 1: Principles 生成" style="swimlane;whiteSpace=wrap;html=1;startSize=25;" vertex="1" parent="1">
-          <mxGeometry x="350" y="235" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="CQcFYhO0DkiSKnMHBSWt-16" value="DeepSeek-GRM 也有生成的难度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CQcFYhO0DkiSKnMHBSWt-13">
-          <mxGeometry y="35" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="CQcFYhO0DkiSKnMHBSWt-15" value="Reference: DeepSeek-GRM" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="490" width="386" height="290" as="geometry" />
         </mxCell>
